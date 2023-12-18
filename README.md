@@ -4,10 +4,10 @@
 https://www.guruguru.science/competitions/22/discussions/f1c6b804-6c60-4987-8a6a-572052dc20a5/
 
 # 実行環境
-Ubuntu 20.04 LTS
-GPU: RTX 3090
-memory: 64GB
-Python 3.10.9
+Ubuntu 20.04 LTS  
+GPU: RTX 3090  
+memory: 64GB  
+Python 3.10.9  
 # 準備
 - datasets/atmaCup16_Dataset 内にデータを置く
 
